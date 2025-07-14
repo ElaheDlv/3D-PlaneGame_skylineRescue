@@ -7,8 +7,6 @@
 Skyline Rescue is an engaging 3D adventure game developed in Unity. Players take on the role of a skilled pilot tasked with rescuing stranded tourists scattered across a tropical island after a severe storm. Each group of tourists rescued awards 10 points, and players must balance speed and precision to maximize their score within strict time limits that vary by difficulty level.
 
 ## Table of Contents
-
-* [Features](#features)
 * [Getting Started](#getting-started)
 
   * [Prerequisites](#prerequisites)
@@ -23,15 +21,6 @@ Skyline Rescue is an engaging 3D adventure game developed in Unity. Players take
 * [Project Structure](#project-structure)
 * [Contributors](#contributors)
 * [Acknowledgments](#acknowledgments)
-
-
-## Features
-
-* **Immersive 3D Environment:** Tropical island with lush vegetation, rocky cliffs, and dynamic obstacles.
-* **Time-Based Rescue Missions:** Three difficulty modes with distinct time limits.
-* **Point-Based Scoring:** Earn 10 points per rescue; compete for high scores.
-* **Intuitive Flight Controls:** Smooth takeoff, navigation, and landing mechanics.
-* **Polished UI:** Clean Main Menu, In-Game HUD, and End Screen for seamless gameplay.
 
 ## Getting Started
 
